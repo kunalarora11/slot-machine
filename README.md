@@ -1,1 +1,1 @@
-# Slot Machine using prompt
+# 🎰 Slot Machine using prompt
